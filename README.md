@@ -8,7 +8,8 @@ Given a 2d grid map of '1's (land) and '0's (water), count the number of islands
 
 **Example 1:**
 
-> Input:
+>Input:
+
 ```
 11110
 11010
@@ -21,6 +22,7 @@ Given a 2d grid map of '1's (land) and '0's (water), count the number of islands
 **Example 2:**
 
 >Input:
+
 ```
 11000
 11000
