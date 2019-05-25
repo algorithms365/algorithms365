@@ -29,7 +29,7 @@ Output: 3
 ```
 
 **Solution**
-```Java
+``` JavaScript
 class Solution {
   public int numIslands(char[][] grid) {
     if (grid == null || grid.length == 0) {
